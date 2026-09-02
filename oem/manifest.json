@@ -1,0 +1,966 @@
+{
+  "vehicle": "royal-lexon-s20",
+  "source_manual": "browser-indexed",
+  "page_count": 24,
+  "generated_by": "shop-manual-indexer (browser)",
+  "indexing_metrics": {
+    "elapsed_sec": 1.61,
+    "pages_indexed": 24,
+    "pool_size": 1,
+    "hardware_concurrency": 4
+  },
+  "page_geometry": {
+    "1": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "2": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "3": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "4": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "5": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "6": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "7": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "8": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "9": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "10": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "11": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "12": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "13": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "14": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "15": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "16": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "17": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "18": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "19": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "20": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "21": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "22": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "23": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    },
+    "24": {
+      "composite_width_px": 2376,
+      "composite_height_px": 1836,
+      "page_width_pt": 792,
+      "page_height_pt": 612
+    }
+  },
+  "entries": [
+    {
+      "procedure_id": "p002_proc1_fig1",
+      "page": 2,
+      "section_heading": "Page 2, procedure 1",
+      "pixel_bbox": [
+        1662,
+        508,
+        2326,
+        1318
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p002_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p002_proc1_fig2",
+      "page": 2,
+      "section_heading": "Page 2, procedure 1",
+      "pixel_bbox": [
+        51,
+        1328,
+        594,
+        1516
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p002_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p002_proc1_fig3",
+      "page": 2,
+      "section_heading": "Page 2, procedure 1",
+      "pixel_bbox": [
+        1281,
+        1328,
+        2348,
+        1516
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p002_proc1_fig3/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p003_proc1_fig1",
+      "page": 3,
+      "section_heading": "Page 3, procedure 1",
+      "pixel_bbox": [
+        25,
+        267,
+        1128,
+        493
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p003_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p003_proc1_fig2",
+      "page": 3,
+      "section_heading": "Page 3, procedure 1",
+      "pixel_bbox": [
+        1285,
+        267,
+        1699,
+        493
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p003_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p003_proc1_fig3",
+      "page": 3,
+      "section_heading": "Page 3, procedure 1",
+      "pixel_bbox": [
+        333,
+        504,
+        1128,
+        664
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p003_proc1_fig3/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p003_proc1_fig4",
+      "page": 3,
+      "section_heading": "Page 3, procedure 1",
+      "pixel_bbox": [
+        1285,
+        504,
+        1809,
+        664
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p003_proc1_fig4/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p003_proc1_fig5",
+      "page": 3,
+      "section_heading": "Page 3, procedure 1",
+      "pixel_bbox": [
+        653,
+        824,
+        1098,
+        1135
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p003_proc1_fig5/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p003_proc1_fig6",
+      "page": 3,
+      "section_heading": "Page 3, procedure 1",
+      "pixel_bbox": [
+        1256,
+        824,
+        2358,
+        1135
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p003_proc1_fig6/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p005_proc1_fig1",
+      "page": 5,
+      "section_heading": "Page 5, procedure 1",
+      "pixel_bbox": [
+        118,
+        138,
+        543,
+        1699
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p005_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p005_proc1_fig2",
+      "page": 5,
+      "section_heading": "Page 5, procedure 1",
+      "pixel_bbox": [
+        1835,
+        138,
+        2229,
+        1699
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p005_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p006_proc1_fig1",
+      "page": 6,
+      "section_heading": "Page 6, procedure 1",
+      "pixel_bbox": [
+        22,
+        291,
+        425,
+        646
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p006_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p006_proc1_fig2",
+      "page": 6,
+      "section_heading": "Page 6, procedure 1",
+      "pixel_bbox": [
+        671,
+        291,
+        1118,
+        646
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p006_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p006_proc1_fig3",
+      "page": 6,
+      "section_heading": "Page 6, procedure 1",
+      "pixel_bbox": [
+        1253,
+        1150,
+        1700,
+        1546
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p006_proc1_fig3/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p007_proc1_fig1",
+      "page": 7,
+      "section_heading": "Page 7, procedure 1",
+      "pixel_bbox": [
+        74,
+        64,
+        474,
+        1774
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p007_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p007_proc1_fig2",
+      "page": 7,
+      "section_heading": "Page 7, procedure 1",
+      "pixel_bbox": [
+        1909,
+        64,
+        2301,
+        1774
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p007_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p008_proc1_fig1",
+      "page": 8,
+      "section_heading": "Page 8, procedure 1",
+      "pixel_bbox": [
+        1378,
+        60,
+        1784,
+        1774
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p008_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p009_proc1_fig1",
+      "page": 9,
+      "section_heading": "Page 9, procedure 1",
+      "pixel_bbox": [
+        28,
+        68,
+        556,
+        1773
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p009_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p009_proc1_fig2",
+      "page": 9,
+      "section_heading": "Page 9, procedure 1",
+      "pixel_bbox": [
+        1817,
+        68,
+        2345,
+        1773
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p009_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p010_proc1_fig1",
+      "page": 10,
+      "section_heading": "Page 10, procedure 1",
+      "pixel_bbox": [
+        664,
+        65,
+        1050,
+        1689
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p010_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p010_proc1_fig2",
+      "page": 10,
+      "section_heading": "Page 10, procedure 1",
+      "pixel_bbox": [
+        1328,
+        65,
+        1730,
+        1689
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p010_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p011_proc1_fig1",
+      "page": 11,
+      "section_heading": "Page 11, procedure 1",
+      "pixel_bbox": [
+        18,
+        144,
+        435,
+        1687
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p011_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p011_proc1_fig2",
+      "page": 11,
+      "section_heading": "Page 11, procedure 1",
+      "pixel_bbox": [
+        448,
+        144,
+        1125,
+        1687
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p011_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p011_proc1_fig3",
+      "page": 11,
+      "section_heading": "Page 11, procedure 1",
+      "pixel_bbox": [
+        1939,
+        144,
+        2356,
+        1687
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p011_proc1_fig3/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p012_proc1_fig1",
+      "page": 12,
+      "section_heading": "Page 12, procedure 1",
+      "pixel_bbox": [
+        692,
+        64,
+        1105,
+        1771
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p012_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p012_proc1_fig2",
+      "page": 12,
+      "section_heading": "Page 12, procedure 1",
+      "pixel_bbox": [
+        1270,
+        64,
+        1683,
+        1771
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p012_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p013_proc1_fig1",
+      "page": 13,
+      "section_heading": "Page 13, procedure 1",
+      "pixel_bbox": [
+        1250,
+        65,
+        1686,
+        1352
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p013_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p013_proc1_fig2",
+      "page": 13,
+      "section_heading": "Page 13, procedure 1",
+      "pixel_bbox": [
+        443,
+        1364,
+        1126,
+        1772
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p013_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p014_proc1_fig1",
+      "page": 14,
+      "section_heading": "Page 14, procedure 1",
+      "pixel_bbox": [
+        22,
+        1316,
+        699,
+        1690
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p014_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p014_proc1_fig2",
+      "page": 14,
+      "section_heading": "Page 14, procedure 1",
+      "pixel_bbox": [
+        1461,
+        1316,
+        2351,
+        1690
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p014_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p015_proc1_fig1",
+      "page": 15,
+      "section_heading": "Page 15, procedure 1",
+      "pixel_bbox": [
+        69,
+        277,
+        476,
+        1558
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p015_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p015_proc1_fig2",
+      "page": 15,
+      "section_heading": "Page 15, procedure 1",
+      "pixel_bbox": [
+        1896,
+        277,
+        2303,
+        1558
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p015_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p018_proc1_fig1",
+      "page": 18,
+      "section_heading": "Page 18, procedure 1",
+      "pixel_bbox": [
+        47,
+        302,
+        866,
+        1544
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p018_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p018_proc1_fig2",
+      "page": 18,
+      "section_heading": "Page 18, procedure 1",
+      "pixel_bbox": [
+        1894,
+        302,
+        2301,
+        1544
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p018_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p019_proc1_fig1",
+      "page": 19,
+      "section_heading": "Page 19, procedure 1",
+      "pixel_bbox": [
+        21,
+        143,
+        911,
+        527
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p019_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p019_proc1_fig2",
+      "page": 19,
+      "section_heading": "Page 19, procedure 1",
+      "pixel_bbox": [
+        1277,
+        143,
+        2267,
+        527
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p019_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p019_proc1_fig3",
+      "page": 19,
+      "section_heading": "Page 19, procedure 1",
+      "pixel_bbox": [
+        21,
+        539,
+        676,
+        1715
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p019_proc1_fig3/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p019_proc1_fig4",
+      "page": 19,
+      "section_heading": "Page 19, procedure 1",
+      "pixel_bbox": [
+        1278,
+        539,
+        1972,
+        1715
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p019_proc1_fig4/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p020_proc1_fig1",
+      "page": 20,
+      "section_heading": "Page 20, procedure 1",
+      "pixel_bbox": [
+        1249,
+        65,
+        1932,
+        723
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p020_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p021_proc1_fig1",
+      "page": 21,
+      "section_heading": "Page 21, procedure 1",
+      "pixel_bbox": [
+        695,
+        151,
+        1108,
+        1717
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p021_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p021_proc1_fig2",
+      "page": 21,
+      "section_heading": "Page 21, procedure 1",
+      "pixel_bbox": [
+        1834,
+        151,
+        2228,
+        1717
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p021_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p022_proc1_fig1",
+      "page": 22,
+      "section_heading": "Page 22, procedure 1",
+      "pixel_bbox": [
+        1252,
+        165,
+        1917,
+        1713
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p022_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p022_proc1_fig2",
+      "page": 22,
+      "section_heading": "Page 22, procedure 1",
+      "pixel_bbox": [
+        1941,
+        165,
+        2358,
+        1713
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p022_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p023_proc1_fig1",
+      "page": 23,
+      "section_heading": "Page 23, procedure 1",
+      "pixel_bbox": [
+        641,
+        161,
+        1051,
+        1771
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p023_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p023_proc1_fig2",
+      "page": 23,
+      "section_heading": "Page 23, procedure 1",
+      "pixel_bbox": [
+        1914,
+        161,
+        2303,
+        1771
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p023_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p024_proc1_fig1",
+      "page": 24,
+      "section_heading": "Page 24, procedure 1",
+      "pixel_bbox": [
+        606,
+        145,
+        996,
+        1769
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p024_proc1_fig1/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    },
+    {
+      "procedure_id": "p024_proc1_fig2",
+      "page": 24,
+      "section_heading": "Page 24, procedure 1",
+      "pixel_bbox": [
+        1784,
+        145,
+        2307,
+        1769
+      ],
+      "source_layout": "text_layer",
+      "content_type": "photo",
+      "contributed_photo_path": "images/royal-lexon-s20/p024_proc1_fig2/",
+      "status": "needs_contributed_photo",
+      "_touched": false,
+      "_seen": true
+    }
+  ],
+  "source_pdf_sha256": "fa457bd2aacdf11ec6c55cf25e4cdcd70796871fec84a10d8c77526e97f97ff1",
+  "category": "home",
+  "manual_type": "appliance",
+  "edition_id": "oem",
+  "source_markers": {
+    "source_identifier": "https://archive.org/details/manualzilla-id-7425982/page/n5/mode/2up"
+  }
+}
