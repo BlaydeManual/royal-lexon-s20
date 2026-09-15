@@ -191,23 +191,6 @@
       "_seen": true
     },
     {
-      "procedure_id": "p002_proc1_fig3",
-      "page": 2,
-      "section_heading": "Page 2, procedure 1",
-      "pixel_bbox": [
-        1281,
-        1328,
-        2348,
-        1516
-      ],
-      "source_layout": "text_layer",
-      "content_type": "photo",
-      "contributed_photo_path": "images/royal-lexon-s20/p002_proc1_fig3/",
-      "status": "needs_contributed_photo",
-      "_touched": false,
-      "_seen": true
-    },
-    {
       "procedure_id": "p003_proc1_fig1",
       "page": 3,
       "section_heading": "Page 3, procedure 1",
